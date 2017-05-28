@@ -87,38 +87,38 @@ class MyApp(QDialog):
     def loadData(self):
         if self.chapter1Radio.isChecked():
             self.data = {}
-            with open("slowka", "r") as file:
+            with open("Chapter1", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
                     self.data[x[0]] = x[1].split("/")
         elif self.chapter2Radio.isChecked():
             self.data = {}
-            with open("slowka2", "r") as file:
+            with open("Chapter2", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
                     self.data[x[0]] = x[1].split("/")
         elif self.latinRadio.isChecked():
             self.data = {}
-            with open("skroty", "r") as file:
+            with open("Abbreviations", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
                     self.data[x[0]] = x[1].split("/")
         else:
              self.data = {}
-             with open("slowka", "r") as file:
+             with open("Chapter1", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
                     self.data[x[0]] = x[1].split("/")
-             with open("slowka2", "r") as file:
+             with open("Chapter2", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
                     self.data[x[0]] = x[1].split("/")
-             with open("skroty", "r") as file:
+             with open("Abbreviations", "r") as file:
                 lines = file.readlines()
                 for line in lines:
                     x = line.replace("\n", "").split(";")
