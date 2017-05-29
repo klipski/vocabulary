@@ -1,0 +1,113 @@
+American National Standards Institute (ANSI);Amerykański Narodowy Instytut
+as far as(something) are concerned;jeżeli chodzi o (coś)
+baseband system;system transmisji w paśmie podstawowym
+(to) bear in mind;pamiętać/mieć na uwadze
+boot;rozruch
+broadband system;system szerokopasmowy
+bus network;sieć o topologii magistrali
+bus/trunk/backbone;magistrala
+cabling;okablowanie
+campus area network(CAN);sieć uczelniana
+centralized communications point;scentralizowany punkt komunikacyjny
+circular communicaiton path;ścieżka komunikacyjna w kształcie okręgu
+client;klient
+client server network;sieć typu klient-serwer
+closed loop;zamknięta pętla
+coaxial cable;kabel koncentryczny
+common user network;sieć ogólnie dostępna
+communication link;łącze komunikacyjne
+communication path;ścieżka komunikacyjna
+communication protocol;protokół komunikacyjny
+computer network topology;topologia sieci komputerowej
+computer network;sieć komputerowa
+copper wire;miedziany przewód
+coupler;łącznik
+(to)decrypt;deszyfrować/rozszyfrować
+device;urządzenie
+disparate company sites;siedziby firmy w różnych lokalizacjach
+disruption;zakłócenie
+dynamic host configuration protocol(DHCP);protokół DHCP/protokół dynamicznego konfigurowania hostów
+(to)encrypt;zaszyfrować
+enterprise private network(EPN);prywatna sieć przedsiębiorstwa
+Ethernet standard;standard Ethernet
+expansion card;karta rozszerzenia
+expansion slot;złącze do rozbudowy funkcjonalnej/gniazdo rozszerzające
+fibre-optic cable;kabel światłowodowy
+file transfer protocol(FTP);protokół FTP/protokół przesyłania plików
+fully connected network;sieć w pełni połączona
+guideline;wytyczna
+high-frequency RF signal;sygnał radiowy wysokiej częstotliwości
+high-performance network;sieć o wysokiej wydajności
+high-speed network;szybka sieć/sieć o dużej szybkości transmisji danych
+home area adapter(HAN);sieć domowa
+host bus adapter(HBA);adapter magistrali hosta
+host computer;komputer główny/komputer macierzysty
+hub;koncentrator
+in short;pokrótce
+inexpensive;niedrogi
+inoperable;nienadający się do użytku
+Institute of Electrical and Electronics Engineers(IEEE);Instytut Inżynierów Elektryków i Elektroników
+internet protocol (IP);protokół internetowy
+IP adress;adres IP
+IrDA;standrad umożliwiający transmisję danych w podczerwieni/IrDA
+layer two tunnelling protocol(L2TP);protokół L2TP
+local area network(LAN);lokalna sieć komputerowa
+(to be) made up (of something);składać się (z czegoś)
+mesh network;sieć kratowa
+metropolitan area network(MAN);miejska sieć komputerowa
+(to) move about;poruszać się
+network adapter;adapter sieciowy
+network architecture;architektura sieci
+network operating system (NOS);sieciowy system sieciowy
+network resources;zasoby sieciowe
+network standard;standard sieciowy
+nickname;pseudonim
+node;węzeł
+obstacle;przeszkoda
+partial mesh network;częściowa sieć kratowa
+peer-to-peer (P2P) network; sieć równorzędna/sieć typu każdy z każdym
+personal area network (PAN);sieć prywatna
+point-to-point tunnelling protocol(PPTP);protokół PPTP
+protocol;protokół
+radio-frequency identification (RFID);system identyfikacji radiowej
+receiving device;urządzenie odbiorcze
+remote connection;połączenie zdalne
+remote station;stacja zdalna
+request;żądanie
+response;odpowiedź
+ring network;sieć o topologii pierścienia
+(to) route;kierować
+router;router/ruter
+scope(of network);zasięg(sieci)
+secure socket layer(SSL);protokół SSL
+sending device;urządzenie nadawcze
+server;serwer
+shared key;klucz współdzielony
+shared storage;współdzielona pamięć
+shielded twisted pair cable;skrętka ekranowana
+single site;jedno miejsce
+socket;gniazdo
+star network;sieć o topologii gwiazdy
+storage area network(SAN);sieć pamięci masowych
+storage area;obszar składowania
+storage resources;zasoby pamięci
+subset;podzbiór
+switch;switch/przełącznik
+T-connector;trójnik
+to sum up;reasumując
+token ring;token ring
+transmission control protocol,internet protocol (TCP,IP);protokół sterowania transmisją w sieci/protokół TCP IP
+transport layer security (TLS) protocol;protokół TLS
+transport layer security (TLS);zabezpieczenia warstwy transportowej
+ultra wideband(UWB);technologia UWB
+unshielded twisted pair cable;skrętka nieekranowana
+virtual private network(VPN);wirtualna sieć prywatna
+wide area network(WAN);rozległa sieć komputerowa
+Wi-Fi base station;stacja bazowa wi-fi
+wired connection;połączenie przewodowe
+wireless application protocol(WAP);protokół aplikacji bezprzewodowych
+wireless client;klient sieci bezprzewodowej
+wireless connection;połączenie bezprzewodowe
+wireless network;sieć bezprzewodowa
+wireless networking equipment;bezprzewodowy sprzęt sieciowy
+worldwide interoperability for microwave access (WiMAX);technologia WiMAX
