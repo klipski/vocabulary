@@ -79,7 +79,7 @@ class MyApp(QDialog):
 		for file in sorted(listdir("vocabulary")):
 			r = QRadioButton(file)
 			r.clicked.connect(self.loadData)
-			if not i:
+			if not i and not j:
 				r.setChecked(True)
 			self.layout.addWidget(r, j, i, 1, 1)
 			self.radioButtons[file] = r
