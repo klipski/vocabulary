@@ -161,9 +161,10 @@ class MyApp(QDialog):
 	def filter(self, s):
 		answer = remove_parenthess_data(s)
 		if self.polishword:
-			similar = similarity(remove_parenthess_data(self.actualword), answer)
-			if similar > 75.:
-				return True
+			for text in self.actualword.split('/'):
+				similar = similarity(remove_parenthess_data(text), answer)
+				if similar > 75.:
+					return True
 		else:
 			for text in self.data[self.actualword]:
 				similar = similarity(remove_parenthess_data(text), answer)
