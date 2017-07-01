@@ -167,7 +167,7 @@ class MyApp(QDialog):
 					return True
 		else:
 			for text in self.data[self.actualword]:
-				similar = similarity(remove_parenthess_data(text), answer)
+				similar = similarity(remove_polish_letters(remove_parenthess_data(text)), remove_polish_letters(answer))
 				if similar > 70.:
 					return True
 		return False
