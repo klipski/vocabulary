@@ -85,7 +85,7 @@ primary storage unit;podstawowa jednostka pamięci
 quad-core CPU;czterordzeniowy procesor
 RAM slot;gniazdo RAM
 random access memory(RAM);pamięć o dostępie bezpośrednim/pamięć RAM
-read/write head;głowica zapisu i odczytu
+read and write head;głowica zapisu i odczytu
 read-only memory(ROM);pamięć tylko do odczytu/pamięć stała/pamięć ROM
 register;rejestr
 ROM chip;kość pamięci ROM
