@@ -50,8 +50,11 @@ class MyApp(QDialog):
 		self.skipButton.clicked.connect(self.skip)
 
 		self.label = QLabel("label")
+		font = QFont("Arial", 17, QFont.Bold)
+		self.label.setFont(font)
 
 		self.lineEdit = QLineEdit()
+		self.lineEdit.setFont(font)
 
 		self.goodAnswersCount = 0
 		self.goodLabel = QLabel("Good: 0")
@@ -61,12 +64,12 @@ class MyApp(QDialog):
 
 		self.data = {}
 
-		self.layout.addWidget(self.label, 3, 0, 1, 4)
-		self.layout.addWidget(self.lineEdit, 4, 0, 1, 4)
-		self.layout.addWidget(self.okButton, 5, 0, 1, 2)
-		self.layout.addWidget(self.skipButton, 5, 2, 1, 2)
-		self.layout.addWidget(self.goodLabel, 7, 0, 1, 2)
-		self.layout.addWidget(self.badLabel, 7, 2, 1, 2)
+		self.layout.addWidget(self.label, 4, 0, 1, 4)
+		self.layout.addWidget(self.lineEdit, 5, 0, 1, 4)
+		self.layout.addWidget(self.okButton, 6, 0, 1, 2)
+		self.layout.addWidget(self.skipButton, 6, 2, 1, 2)
+		self.layout.addWidget(self.goodLabel, 8, 0, 1, 2)
+		self.layout.addWidget(self.badLabel, 8, 2, 1, 2)
 		# self.layout.addWidget(self.closeButton, 8, 3, 1, 1)
 		self.actualword = ""
 		self.polishword = ""
