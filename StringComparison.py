@@ -4,7 +4,7 @@ import unicodedata
 
 
 def remove_polish_letters(uniS):
-	return str(unicodedata.normalize('NFKD', str(uniS)).encode('ascii', 'ignore'))
+	return unicodedata.normalize(u'NFKD', uniS)
 
 
 def letter_pairs(s):

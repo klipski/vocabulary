@@ -5,10 +5,16 @@ from __future__ import unicode_literals, print_function
 
 import random
 import sys
-from PyQt4.QtCore import *
-from PyQt4.QtGui import *
-from PyQt4.uic import *
-import unicodedata
+from PyQt4.QtGui import (
+	QDialog,
+	QApplication,
+	QGridLayout,
+	QPushButton,
+	QLabel,
+	QFont,
+	QLineEdit,
+	QRadioButton,
+	QMessageBox)
 from os import listdir
 from StringComparison import *
 
@@ -20,7 +26,7 @@ def remove_spaces(s):
 
 
 def remove_parenthess_data(s):
-	result = s
+	result = unicode(s)
 	first_p = result.find("(")
 	second_p = result.find(")")
 	a = 0
@@ -101,7 +107,7 @@ class MyApp(QDialog):
 				with open("vocabulary/%s" % filename, "r") as file:
 					lines = file.readlines()
 					for line in lines:
-						x = line.replace("\n", "").split(";")
+						x = line.decode('utf-8').replace("\n", "").split(";")
 						self.data[x[0]] = x[1].split("/")
 		else:
 			for filename in self.radioButtons:
@@ -111,7 +117,7 @@ class MyApp(QDialog):
 					with open("vocabulary/%s" % filename, "r") as file:
 						lines = file.readlines()
 						for line in lines:
-							x = line.replace("\n", "").split(";")
+							x = line.decode('utf-8').replace("\n", "").split(";")
 							self.data[x[0]] = x[1].split("/")
 		self.randWord()
 

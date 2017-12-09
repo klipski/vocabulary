@@ -1,0 +1,113 @@
+(to) accelerate;przyspieszać
+ad-hoc query;zapytanie ad hoc
+aggregated data;dane zagregowane
+analysis and presentation layer;warstwa analizy i prezentacji
+analytical cube;kostka analityczna
+(to) boost business performance;pobudzać wzrost wyników działalności gospodarczej
+business intelligence(BI);analityka biznesowa/business intelligence
+challenger;pretendent
+cleansing process;proces oczyszczania
+(to) collect data;gromadzić dane
+computation;obliczenie
+(to) conduct analysis;przeprowadzić analizę
+conformed dimension table;współdzielona tabela wymiarów
+cross-selling;sprzedaż krzyżowa
+dashboard;kokpit menedżerski
+data analysis expressions(DAX);wyrażenia analizy danych
+data caputre;zbieranie danych
+data cleansing/data scrubbing;oczyszczanie danych
+data format;format danych
+data integration layer;warstwa integracji danych
+data loading;ładowanie danych
+data mart;składnica danych/tematyczna hurtownia danych
+data mining;eksploracja danych
+data profiling;profilowanie danych
+data sources layer;warstwa źródeł danych
+data storage layer;warstwa przechowywania danych
+data storage system;system przechowywania danych
+data store;magazyn danych
+data transformation;przekształcanie danych/transformacja danych
+data type;typ danych
+data validation;sprawdzanie poprawności danych
+data visualization tool;narzędzie do wizualizacji danych
+data visualization;wizualizacja danych
+data warehouse;hurtownia danych
+database schema;schemat bazy danych
+(to) denormalize;dokonać denormalizacji
+(to) detect;wykrywać
+dimension table;tablica wymiarów
+drill-across;drążenie w poprzek
+drill-down;drążenie w głąb/drązenie w dół
+duplicate value;duplikat wartości
+(to) encompass;obejmować
+end-user;użytkownik końcowy
+(to) ensure;zapewniać
+enterprise data warehouse;korporacyjna hurtownia danych
+ETL process;proces ETL/proces ekstrakcji, transformacji i ładowania
+executive reporting tool;narzędzie do raportowania dla kadry zarządzającej
+executive;członek zarządu
+expected value;wartość oczekiwana
+eye-catching;przykuwający wzrok
+fact table;tabela faktów
+flat file;plik płaski
+forecast;prognoza
+foreign key reference;odwołanie do klucza obcego
+fragmented;rozdrobniony/podzielony na części
+(to) guesstimate;szacować "na oko"
+inconsistent;niespójny
+informed business decision;świadoma decyzja biznesowa
+invalid data;nieprawidłowe dane
+investment opportunity;możliwość inwestycyjna
+join;złączenie
+leader;lider
+(to) leverage customer data;wykorzystać dane o klientach
+loading on-the-fly;ładowanie w locie
+meaningless key;klucz sztuczny
+mobile BI tools;narzędzia do analizy business intelligence na urządzeniach mobilnych
+multidimensional online analytical processing(MOLAP);wielowymiarowe przetwarzanie analityczne online
+niche player;gracz niszowy
+non-volatile;nieulotny
+(to) offload;odciążać
+online analytical processing(OLAP);przetwarzanie analityczne online
+open source BI;narzędzia typu open source do analiz business intelligence
+operational efficiency;efektywność operacyjna
+(to) out-innovate;wykraczać poza ramy w zakresie wprowadzania innowacji
+(to) out-perform;wykraczać poza ramy w zakresie wyników działalności gospodarczej
+periodical;okresowy
+positioning;pozycjonowanie
+primary key;klucz główny
+query workload;obciążenie wskutek wykonywania zapytania
+record count;liczba rekordów
+redundancy;redundancja/nadmiarowość
+(to) refresh;odświeżać
+relational database;relacyjna baza danych
+relationship;związek/relacja
+roll-up;konsolidowanie/zwijanie
+(to) run a query;uruchomić zapytanie
+scorecard;karta wyników
+self-service BI (SSBI);samodzielnie przeprowadzona analiza business intelligence
+(to) slice-and-dice data;analizować dane w dowolnych przekrojach i rzutach
+slice-and-dice pivot table analysis;analiza danych w dowolnych przekrojach i rzutach za pomocą tabeli przestawnej
+slowly changing dimension (SCD);wymiar wolnozmienny
+snowflake schema;schemat płatka śniegu
+sound business decision;rozsądna/trafna decyzja biznesowa
+(to) spot;zauważać/dostrzegać
+spreadsheet;arkusz kalkulacyjny
+staging area;obszar tymczasowy
+star schema;schemat gwiazdy
+(to) state;określać/ogłaszać
+statistical analysis;analiza statystyczna
+subject-oriented;tematyczny
+surrogate key;klucz sztuczny
+target database;docelowa baza danych
+temporary data store;tymczasowe miejsce przechowywania danych
+text mining;eksploracja tekstu/eksploracja danych tekstowych
+time-consuming;czasochłonny
+time-variant;zmienny w czasie
+(to) transform;przekształcać
+up-selling;sprzedaż produktów droższych
+validation rule;reguła poprawności
+violation of business rules;naruszenie reguł biznesowych
+visionary;wizjoner
+visually appealing;atrakcyjny wizualnie
+what-if analysis;analiza typu "co-jeśli?"
