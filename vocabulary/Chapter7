@@ -1,0 +1,111 @@
+(to) apply (to something);odnosić się (do czegoś)/dotyczyć (czegoś)/mieć zastosowanie (do czegoś)
+a priori assumption;założenie a priori
+advance;postęp
+artificial intelligence(AI);sztuczna inteligencja
+association;asocjacja
+association rule;reguła asocjacji
+back-propagation;wsteczna propagacja błędów
+bar code;kod kreskowy
+branch;gałąź
+burst node;węzęł wyjściowy
+chance node;węzeł losowy
+class label;etykieta klasy
+class membership;przynależność do klasy
+clustering;współliniowy
+conditional probability;prawdopodobieństwo warunkowe
+continuous time series;ciągły szereg czasowy
+continuous variable;zmienna ciągła
+continuous;ciągły
+converging paths;zbiegające się ścieżki
+correlation;współzależność
+criterion variable;zmienna kryterialna
+data collection tool;narzędzie do zbierania danych
+data mining preocess;proces eksploracji danych
+data mining technique;technika eksploracji danych
+data mining;eksploracja danych
+decision node;węzęł decyzyjny
+decision support tool;narzędzie wspomagające podejmowanie decyzji
+decision tree;drzewo decyzyjne
+dependent variable;zmienna zależna
+descriptive;opisowy
+differential analysis;analiza różnicowa
+(to) digitize a series;dyskretyzować szereg
+discrete set of time points;dyskretny zestaw punktów czasowych
+discrete time series;dyskretny szereg czasowy
+distributed databases;rozproszone bazy danych
+end node;węzeł końcowy
+equal intervals of time;równe odstępy czasu
+explanatory variable;zmienna objaśniająca
+extension;rozszerzenie/zwiększenie
+extracting rules;reguły ekstrakcji
+fault-tolerant nonlinear models;modele nieliniowe odporne na błędy
+flow chart;schemat blokowy
+forecasting;prognozowanie
+(to) handle (something);radzić sobie (z czymś)/zajmować się (czymś)
+(to) harness;ujarzmić/okiełznać
+heterogeneous;niejednorodny
+hyperplane;hiperpłaszczyzna
+hypertext;hipertekst
+imperfectness;niedoskonałość
+independent variable;zmienna niezależna
+inductive learning algorithm;algorytm uczenia indukcyjnego
+initial exploration;wstępna eksploracja
+input variable;zmienna wejściowa
+internal node;węzeł wewnętrzny
+itemset;zbiór produktów
+knowledge discovery;odkrywanie wiedzy
+knowledge extraction;wydobywanie wiedzy
+knowledge-based system;system oparty na wiedzy
+leaf node;liść/węzeł liścia
+learning process;proces uczenia się
+legacy data;dane historyczne
+line equation;równanie liniowe
+linear data model;liniowy model danych
+linear regression;regresja liniowa
+linear relationship;zależność liniowa
+market basket analysis;analiza koszykowa
+meaningful;znaczący/mający znaczenie
+measure of uncertainty;miara niepewności
+(to) mimic;naśladować
+modelling process;proces modelowania
+multicollinearity;wielowspółliniowość
+multilayer feed-forward neural network;wielowarstwowa jednokierunkowa sieć neuronowa
+naive Bayes classifier;naiwny klasyfikator Bayesa
+network pruning;przycinanie sieci
+neural network;sieć neuronowa
+non-leaf node;węzeł niebędący liściem
+non-linear model;model nieliniowy
+outcome variable;zmienna określająca punkt końcowy badania/zmienna wynikowa
+outcome;wynik/rezultat
+outlier;wartość skrajna
+pattern identification;identyfikacja wzorca
+pattern recognition;rozpoznawanie wzorców
+prediction;przywidywanie
+predictive;prognostyczny/predykcyjny
+predictor variable;zmienna predykcyjna
+(to) purchase;nabyć/zakupić
+quantitative modelling;modelowanie ilościowe
+real-life data;dane rzeczywiste
+regression equation;równanie regresji
+regression line;linia regresji
+regression;regresja
+residual;reszta (w analizie regresji)
+robust regression;regresja odporna
+running time;czas wykonywania
+scalable;skalowalny
+self-organizing map (SOM);mapa samoorganizująca
+shopping cart;koszyk na zakupy
+sink node;węzeł zbiorczy
+splitting paths;rozwidlające się ścieżki
+spurious pattern;fałszywy wzorzec
+statistical method;metoda statystyczna
+subset;podzbiór
+support vector machine (SVM);maszyna wektorów nośnych
+terminal node;węzeł końcowy
+time point;punkt czasowy
+time series analysis;analiza szeregów czasowych
+time series;szereg czasowy
+tree-like graph;wykres w postaci drzewa
+underlying data;dane źródłowe
+variable;zmienna
+widespread;rozpowszechniony
