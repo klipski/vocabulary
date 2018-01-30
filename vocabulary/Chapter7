@@ -11,7 +11,8 @@ burst node;węzęł wyjściowy
 chance node;węzeł losowy
 class label;etykieta klasy
 class membership;przynależność do klasy
-clustering;współliniowy
+clustering;klastrowanie
+collinear;współliniowy
 conditional probability;prawdopodobieństwo warunkowe
 continuous time series;ciągły szereg czasowy
 continuous variable;zmienna ciągła
