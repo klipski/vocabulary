@@ -1,0 +1,156 @@
+(to) address (something);zajmować się (czymś)
+agile methodology; metodyka zwinna
+agreed-upon feature set;uzgodniony zestaw funkcji
+approach;podejście
+Backlog Grooming(in Scrum)/Backlog Refinement(in Scrum);doskonalenie backlogu (rejestru) produktu
+backlog item;element backlogu (rejestru) produktu
+baseline architercture;architektura odniesienia
+beta-release working system;wersja beta działającego systemu
+big design up front(BDUF);szczegółowe wymagania określone z góry
+bottleneck;wąskie gardło
+(to) bottom out a problem;dotrzeć do sedna problemu
+Build a Features List(in FDD);budowanie listy cech
+Build by Feature(in FDD);realizacja cechy
+burn-down chart;wykres spalania
+Business Case (in DSDM Agile Project Framework);uzasadnienie biznesowe
+business case;uzasadnienie biznesowe
+business issue;kwestnia biznesowa
+Business Sponsor(in DSDM Agile Project Framework);Business Sponsor/sponsor biznesowy
+Business Visionary;wizjoner biznesu
+capacity;pojemność(zespołu)
+Chief Programmer(in FDD);główny programista
+client-centric methodology;metodyka ukierunkowania na potrzeby klienta
+code review;przegląd kodu
+collective code ownership;wspólna własność kodu
+(to) combine (something with something);łączyć (coś z czymś)
+complex;złożony
+comprehensive documentation;obszerna dokumentacja
+constant evolution;ciągły rozwój
+Construction(in RUP);konstruowanie
+continuous integration;ciągła integracja
+could have requirement;wymaganie, które może, ale nie musi zostać spełnione
+cross-functional team;iterdyscyplinarny zespół
+Daily Scrum(in Scrum);codzienny scrum
+delay;opóźnienie
+deliverable;produkt projektu
+Delivery Plan(in DSDM Agile Project Framework);Delivery Plan/plan dostarczania
+deployable solution;rozwiązanie gotowe do wdrożenia
+Deployment(in DSDM Agile Project Framework);faza Deployment/faza wdrożenia
+deployment;wdrożenie
+Design by Feature(in FDD);projekt implementacji cechy
+design phase;faza projektowania
+design upfront;z góry ustalony projekt systemu
+Develop an Overall Model(in FDD);tworzenie ogólnego modelu
+Development Team(in Scrum);zespół deweloperski
+(to) disregard;lekceważyć
+Domain Expert(in FDD);ekspert dziedzinowy
+domain;dziedzina/domena
+DSDM Coach (in DSDM Agile Project Framerwork);DSDM Coach/coach DSDM
+dynamic systems development method(DSDM);metoda tworzenia systemów dynamicznych
+(to) elaborate (on something);rozwinąć (dany temat)/podać więcej informacji
+Elaboration(in RUP);opracowanie
+(to) embrance;ujmować/obejmować
+(to) enact;wcielić w życie
+Evolutionary Development (in DSDM Agile Project Framework);faza Evolutionary Development/faza rozwoju ewolucyjnego
+(to) evolve;rozwijać się/ewoluować
+extreme programming(XP);programowanie ekstremalne
+Feasibility(in DSDM Agile Project Framework);faza Feasibility/faza oceny wykonalności
+Feasibility Assessment (in DSDM Agile Project Framework);Feasibility Assessment/studium wykonalności
+feasibility;wykonalność
+feature team(in FDD);zespół programistów
+feedback;informacja zwrotna
+focus factor;współczynnik skupienia
+forecasted velocity;prognozowana prędkość
+Foundations(in DSDM Agile Project Framework);faza Foundations/faza określenia podstaw
+framework;ramy postępowania/rama metodyczna/struktura
+(to) get rid of (something);pozbyć się (czegoś)
+guideline;wytyczne
+heavyweight methodology;metodyka ciężka
+high-level requirement;ogólne wymaganie
+human-intensive process;proces wymagający dużego zaangażowania ze strony człowieka
+implementation;implementacja/wdrożenie
+in detail;szczegółowo/ze szczegółami
+Inception(in RUP);rozpoczęcie
+incremental approach;podejście przyrostowe
+inflexibility;brak elastyczności
+intended user;docelowy użytkownik
+(to) investigate a problem;przeanalizować problem
+iterative approach;podejście iteracyjne
+just enough design initially (JEDI);szczegółowe wymagania odkrywane w trakcie
+just-in-time (JIT) production;produkcja dokładnie na czas
+(to) keep up the pace;utrzymać tempo
+lean production;szczupła produkcja
+lightweight methodology;metodyka lekka
+linear software development process;liniowy proces tworzenia oprogramowania
+maintenance;utrzymanie
+major;ważny/istotny
+mature software development practice;dojrzałe podejście do tworzenia oprogramowania
+milestone;kamień milowy
+minimum usable subset;minimalny użyteczny podzbiór
+model-driven software development technique;technika rozwoju oprogramowania w oparciu o model
+MoSCoW technique;technika MoSCoW
+must have requirement;wymaganie, które musi zostać spełnione
+object-oriented modelling;modelowanie obiektowe
+(to) overlook(something);przeoczyć (coś)
+pair programming (in XP);programowanie w parach
+pending;w toku/oczekujący
+Plany by Feature(in FDD);planowanie implementacji cech
+planning poker;technika planning poker
+Post-Project(in DSDM Agile Project Framework);faza Post-Project/faza poprojektowa
+Pre-Project;faza przedprojektowa
+Prioritized Requirements List(PRL);lista wymagań uszeregowana według priorytetów
+process flow;przepływ procesu
+Product Backlog(in Scrum);backlog produktu/rejestr produktu
+product development lifecycle;cykl rozwoju produktu
+Product Owner(in Scrum);właściciel produktu
+project management lifecycle;cykl zarządzania projektem
+(to) put emphasis (on something);położyć nacisk (na coś)
+rational unified process (RUP);metodyka RUP
+refactoring;refaktoring
+(to) reprioritize;dokonać ponownej priorytetyzacji/uszeregować ponowanie pod względem ważności
+requirements gathering;zbieranie wymagań
+(to) resolve;rozwiązywać
+risk analysis;analiza ryzyka
+Scrum Master (in Scrum);Scrum Master/mistrz scruma
+Scrum Team(in Scrum);zespół scrumowy
+self-organizing team;samoorganizujący się zespół
+sequential software development approach;sekwencyjne podejście do tworzenia oprogramowania
+shippable working product;działający i możliwy do przekazania produkt
+short release;częste oddawanie gotowych elementów systemu
+should have requirement;wymaganie, które powinno zostać spełnione, jeśli jest to możliwe
+software development life cycle(SDLC);cykl rozwoju oprogramowania
+Solution Architecture Definition(SAD);definicja architektury rozwiązania
+Solution Developer(in DSDM);twórca rozwiązania
+solution recipient;odbioraca rozwiązania
+spiral model;model spiralny
+Sprint(in Scrum);sprint
+Sprint Backlog(in Scrum);backlog sprintu/rejestr sprintu
+Sprint Planning(in Scrum);planowanie sprintu
+Sprint Retrospective(in Scrum);retrospektywa sprintu
+Sprint Review(in Scrum);przegląd sprintu
+stakeholder;interesariusz
+(to) stay behind the competitors;zostać w tyle za konkurencją
+story point;story point/punkt historyjkowy
+susceptibility to bottlenecks;podatność na bycie wąskim gardłem
+system design;projekt systemu
+task board(in Kanban);tablica zadań
+Technical Coordinator(in DSDM Agile Project Framework);Technical coordinator/koordynator techniczny
+test driven development(TDD);technika Test-Driven Development/technika TDD
+throwaway task;wykonane zadanie, które po pewnym czasie okazuje się nieprzydatne
+Timebox Plan(in DSDM Agile Project Framework);plan okienka czasu
+timebox;ograniczenie czasowe/ramy czasowe
+(to) track progress;śledzić postęp
+Transition(in RUP);przekazanie
+unresponsiveness(to something);brak reakcji (na coś)
+user experience (UX) designer;projektant UX/projektant doświadczeń użytkownika
+user story;historyjka użytkownika
+(to) validate;potwierdzać
+velocity;prędkość (zespołu)
+v-model;model v
+waterfall methodology;metodyka kaskadowa
+white paper;biuletyn informacyjny/biała księga
+won't have requirement;wymaganie, które nie zostanie spełnione, ale może zostać wzięte pod uwagę w przyszłości
+workflow;przepływ pracy
+working software;działające oprogramowanie
+working system;działający system
+work-in-progress;praca w toku
