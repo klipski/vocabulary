@@ -1,0 +1,146 @@
+conabove mentioned;wyżej wymieniony
+access control;kontrola dostępu
+access point;punkt dostępowy
+ad/advertisement;reklama
+address resolution protocol (ARP);protokół odwzorowania adresów/protokół ARP
+adjacent;sąsiadujący
+(to) allow (for something);umożliwiać/uwzględniać (coś)
+anchor;kotwica
+anchor text;tekst zakotwiczenia
+and so on and so forth;i tak dalej
+application layer;warstwa aplikacji
+backbone network;sieć szkieletowa/sieć podstawowa
+bottleneck;wąskie gardło
+browser;przeglądarka
+carrier sense multiple access with collision avoidance(CSMA CA);metoda CMSA CA/protokół wielodostępu do łącza ze śledzeniem stanu nośnika i unikaniem kolizji
+carrier sense multiple access with collision detection(CSMA CD);metoda CMSA CD/protokół wielodostępu do łącza ze śledzeniem stanu nośnika i wykrywaniem kolizji
+cell phone network;sieć komórkowa
+chunk;spory kawał/znaczna część
+circuit failure;uszkodzenie obwodu
+client;klient
+communication service;usługa komunikacyjna
+congestion;korek/zator
+(to) convert (something in to something);przekształcać (w co innego)
+crawl;pełzanie
+(to) crawl;pełzać
+crawler;pająk/crawler
+data encapsulation;obudowywanie danych
+data integrity;integralność danych
+data packet;pakiet danych
+data transmission;transmisja danych
+default gateway;brama domyślna
+delay;opóźnienie
+destination;miejsce docelowe
+destination address;adres docelowy
+determinant;wyznacznik/czynnik warunkujący
+digital subscriber line (DSL);cyfrowa linia abonencka
+(to) display;wyświetlać
+domain name;nazwa domeny
+(to) enable;umożliwiać
+(to) enhance;poprawiać/zwiększać
+entry;wpis
+factor;czynnik
+Federal Networking Council (NFC);Federalna Rada ds. Sieci Komputerowych
+feedback;informacja zwrotna
+(to) fetch;pobierać/sprowadzać
+fiber distributed data interface (FDDI);interfejs danych rozprowadzanych światłowodem
+fibre-optic cable;kabel światłowodowy
+file transfer protocol (FTP);protokół przesyłania plików/protokół FTP
+(to)forge;podrabiać/fałszować
+frequency;częstotliwość
+full-text query;zapytanie pełnotekstowe
+full-text search;wyszukiwanie pełnotekstowe
+full-text searh capability;możliwość wyszukiwania pełnotekstowego
+(to) grable;zniekształcać
+googlebot;googlebot/robot wyszukiwarki Google
+hit list;lista wyników wyszukiwania
+hypertext transfer protocol (HTTP);protokół przesyłania hipertekstu/protokół HTTP
+indexed search;wyszukiwanie indeksowe
+indexing process;proces indeksowania
+information service;usługa informacyjna
+International Organization for Standardization (ISO);Międzynarodowa Organizacja Normalizacyjna
+internet control message protocol (ICMP);internetowy protokół komunikatów kontrolnych/protokół ICMP
+internet layer;warstwa internetowa
+internet protocol (IP);protokół komunikacyjny internetu
+internet relay chat (IRC);usługa internetowa umożliwiająca nawiązanie w czasie rzeczywistym komunikacji między użytkownikami/czat w czasie rzczywistym
+internet service;usługa internetowa
+internet service provider (ISP);dostawna usług internetowych
+IP address;adres IP
+IP datagram;datagram IP
+IP spoofing;fałszowanie adresu IP
+(to) jitter;drgać
+junction;skrzyżowanie
+keyword;słowo kluczowe
+(to) label (something with something);oznaczyć (coś za pomocą czegoś)/opatrzyć (coś) etykietą (w postaci czegoś)
+layer;warstwa
+logical address;adres logiczny
+MAC address;adres MAC
+medium access control (MAC);kontrola dostępu do medium transmisyjnego
+menu-driven client/server application;aplikacja typu klient - serwer startowana przez menu
+network access layer;warstwa dostępu do sieci/warstwa fizyczna
+network access point (NAP);punkt dostępu do sieci
+network interface card (NIC);karta sieciowa
+network protocol;protokół sieciowy
+network service;usługa sieciowa
+occurrence;wystąpienie
+open systems interconnection (OSI) reference model;model odniesienia łączenia systemów otwartych/model osniesienia OSI
+origin;pochodzenie
+outside link;link zewnętrzny
+overall score;ogólny wynik
+packet;pakiet
+packet switching;komutacja pakietów
+parsing;analiza składniowa
+physical network;sieć fizyczna
+poin of presence(POP);punkt przyłaczenia
+pointer;wskaźnik
+predecessor;poprzednik
+priority queuing (PQ);kolejkowanie priorytetowe
+pulse of light;impuls swiatła
+radio signal;sygał radiowy
+random;losowy/przypadkowy
+(to) rate;klasyfikować/oceniać
+real-time traffic;ruch sieciowy w czasie rzeczywistym
+(to) reassemble;ponownie złożyć
+receiver host;host odbiorcy
+(to) regard;uważać/uznawać (za coś)
+related search;wyszukiwanie powiązane
+relevant;istotny/związany z tematem/trafny
+reliability;solidność/niezawodność/rzetelność
+remote access;zdalny dostęp
+remote client;zdalny klient
+resolution;postanowienie/uchwała
+resource path;ścieżka do zasobów
+resource sharing;współdzielenie zasobów
+(to) retrieve;pobierać/odnaleźć
+reverse address resolution protocol (RARP);protokół odwrotnego odwzorowania adresów/protokół RARP
+route;trasa/droga
+(to) route;kierować (jakąś trasą)
+router;router/ruter
+routing;trasowanie
+search engine;wyszukiwarka
+search engine result page (SERP); strona wyników wyszukiwania
+search result;wynik wyszukiwania
+second-level domain (SLD);domena drugiego poziomu
+sender host;host nadawcy
+simple mail transfer protocol (SMTP);protokół wysyłania poczty elektronicznej/protokół SMTP
+simply put;mówiąc prosto
+snippet of text;fragment tekstu
+source address;adres źródłowy
+spider;pająk/crawler
+(to) split apart;dzielić/rodzielać (na części)
+stack;stos
+subdomain;poddomena/podobszar
+term;termin/pojęcie
+token passing;przekazywanie znacznika
+top-level domain (TLD);domena najwyższego poziomu
+trademarked algorithm;algorytm oznaczony znakiem handlowym
+transmission control protocol (TCP);protokół kontroli transmisji/protokół TCP
+transmission control protocol internet protocol (TCP IP);protokół sterowania transmisją w sieci/protokó TCP IP
+transport layer;warstwa transportowa
+uniform resource locator (URL);jednolity lokalizator zasobów/adres URL
+user data protocol (UDP);datagramowy protokół użytkowanika/protokół UDP
+webpage;podstrona internetowa
+website;witryna sieci WWW/strona internetowa
+wide area information server (WAIS);serwer informacyny w sieciach rozległych
+wire;przewód
+world wide web (WWW);sieć WWW/sieć ogólnoświatowa
